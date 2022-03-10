@@ -1,1 +1,1 @@
-A simple AI model that can categorize financial articles 
+A simple AI model to categorize financial articles
